@@ -1,0 +1,71 @@
+/* 
+
+License: GNU GPL v3
+
+see more at https://www.gnu.org/licenses/gpl-3.0.en.html  
+
+© 2018
+
+*/
+
+body {
+	
+	font-family: monospace;
+	background-color: rgb(82, 86, 89);
+}
+
+h1, h2, h3 {
+	font-weight: bold;
+}
+
+#wrapper {
+	margin: auto;
+	max-width: 780px;
+	padding: 10px;
+	background-color: #FFFFFF;
+}
+
+#header-wrapper img {
+	max-width: 100%; 
+	height: auto;
+}
+
+#article-wrapper h1 {
+	font-size: 25px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#article-wrapper h3 {
+	font-size: 18px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#article-wrapper img {
+	max-width: 100%; 
+	height: auto;
+}
+
+#article-wrapper h2 {
+	font-size: 17px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#article-wrapper p {
+	font-size: 16px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#footer-wrapper {
+	background-color: #292c33;
+    padding: 10px;
+    margin-top: 8px;
+    color: #FFFFFF;
+}
+
+#footer-wrapper a {
+    color: #FFFFFF;
+}
